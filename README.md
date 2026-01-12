@@ -1,80 +1,81 @@
-Course Evaluation & Student Feedback Dashboard
-Project Overview
+**Course Evaluation & Student Feedback Dashboard**
+
+**Project Overview**
 
 This project focuses on analyzing student course evaluation data to assess teaching effectiveness and overall course quality. The dashboard transforms raw survey responses into clear, actionable insights that support academic decision-making and continuous improvement.
 
-Objective
+**Objective**
 
 To evaluate instructor performance and course relevance by analyzing student ratings across key teaching dimensions.
 
-Dataset Description
+**Dataset Description**
 
 The dataset contains student feedback scores (1–10) across multiple evaluation criteria, including:
 
-Subject knowledge
+* Subject knowledge
 
-Clarity of explanations
+* Clarity of explanations
 
-Use of presentations
+* Use of presentations
 
-Assignment difficulty
+* Assignment difficulty
 
-Willingness to solve doubts
+* Willingness to solve doubts
 
-Course structure
+* Course structure
 
-Student support
+* Student support
 
-Course recommendation
+* Course recommendation
 
-Key KPIs
+**Key KPIs**
 
-Overall Average Score
+* Overall Average Score
 
-Average Course Recommendation
+* Average Course Recommendation
 
-Highest Rated Teaching Dimension
+* Highest Rated Teaching Dimension
 
-Lowest Rated Teaching Dimension
+* Lowest Rated Teaching Dimension
 
-Total Student Responses
+* Total Student Responses
 
-Dashboard Features
+**Dashboard Features**
 
-KPI cards for quick performance assessment
+* KPI cards for quick performance assessment
 
-Bar chart comparing average scores across teaching dimensions
+* Bar chart comparing average scores across teaching dimensions
 
-Recommendation score distribution to measure student satisfaction
+* Recommendation score distribution to measure student satisfaction
 
-Heatmap matrix with conditional formatting to highlight strengths and weaknesses
+* Heatmap matrix with conditional formatting to highlight strengths and weaknesses
 
-Interactive filters for focused analysis
+* Interactive filters for focused analysis
 
-Tools & Technologies
+**Tools & Technologies**
 
-Power BI
+* Power BI
 
-DAX
+* DAX
 
-Data Modeling
+* Data Modeling
 
-Data Visualization
+* Data Visualization
 
-Key Insights
+**Key Insights**
 
-Strong performance in subject knowledge and student support
+* Strong performance in subject knowledge and student support
 
-Moderate variation across teaching dimensions
+* Moderate variation across teaching dimensions
 
-Course recommendation scores indicate high relevance with areas for improvement in course structure and assignment difficulty
+* Course recommendation scores indicate high relevance with areas for improvement in course structure and assignment difficulty
 
-Skills Demonstrated
+**Skills Demonstrated**
 
-KPI development
+* KPI development
 
-DAX calculations
+* DAX calculations
 
-Analytical storytelling
+* Analytical storytelling
 
-Dashboard design best practices
+* Dashboard design best practices
