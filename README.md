@@ -1,81 +1,46 @@
-**Course Evaluation & Student Feedback Dashboard**
+**Title: Customer Support Issue Analysis**
 
-**Project Overview**
+**Overview:**
+This repository contains an analysis of customer support interactions over the period 15/01/2026 – 22/01/2026. The goal is to identify the most frequent customer issues, highlight operational bottlenecks, and provide actionable insights to improve customer experience.
 
-This project focuses on analyzing student course evaluation data to assess teaching effectiveness and overall course quality. The dashboard transforms raw survey responses into clear, actionable insights that support academic decision-making and continuous improvement.
+**Key Findings:**
 
-**Objective**
+Deposit-related issues are the largest driver of support requests.
 
-To evaluate instructor performance and course relevance by analyzing student ratings across key teaching dimensions.
+Password and login challenges are the second-highest contributor to contacts.
 
-**Dataset Description**
+Withdrawal inquiries and account deactivations indicate potential trust and churn risks.
 
-The dataset contains student feedback scores (1–10) across multiple evaluation criteria, including:
+Despite high contact volumes, successful upsells remain strong, reflecting effective agent engagement.
 
-* Subject knowledge
+**Data Included:**
 
-* Clarity of explanations
+Raw dataset of customer issues
 
-* Use of presentations
+Cleaned and consolidated dataset used for analysis
 
-* Assignment difficulty
+**Insights & Recommendations:**
 
-* Willingness to solve doubts
+Implement better deposit tracking and visibility to reduce repetitive contacts.
 
-* Course structure
+Improve OTP and password recovery flows.
 
-* Student support
+Monitor withdrawal delays and account deactivation requests to proactively reduce churn.
 
-* Course recommendation
+Maintain agent engagement practices that drive upsell success.
 
-**Key KPIs**
+**Visualizations:**
 
-* Overall Average Score
+Bar chart showing issues by category
 
-* Average Course Recommendation
+Donut chart for issue distribution
 
-* Highest Rated Teaching Dimension
+Trend lines for deposit and login issues
 
-* Lowest Rated Teaching Dimension
+**Usage:**
 
-* Total Student Responses
+Load datasets into Power BI or Excel to explore trends
 
-**Dashboard Features**
+Use insights to prioritize operational improvements
 
-* KPI cards for quick performance assessment
-
-* Bar chart comparing average scores across teaching dimensions
-
-* Recommendation score distribution to measure student satisfaction
-
-* Heatmap matrix with conditional formatting to highlight strengths and weaknesses
-
-* Interactive filters for focused analysis
-
-**Tools & Technologies**
-
-* Power BI
-
-* DAX
-
-* Data Modeling
-
-* Data Visualization
-
-**Key Insights**
-
-* Strong performance in subject knowledge and student support
-
-* Moderate variation across teaching dimensions
-
-* Course recommendation scores indicate high relevance with areas for improvement in course structure and assignment difficulty
-
-**Skills Demonstrated**
-
-* KPI development
-
-* DAX calculations
-
-* Analytical storytelling
-
-* Dashboard design best practices
+[https://drive.google.com/file/d/1CZLpFn-Lwpt86D4sU2Xrc5E6LFWueUmu/view?usp=sharing](url)
